@@ -24,13 +24,13 @@
 
 <div id="stack" align="center">
     <h2>My developer tools 👩🏼‍💻</h2>
-    <a href="link">
+    <a href="">
         <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
         </a>
-    <a href="link">
+    <a href="">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
         </a>
-    <a href="link">
+    <a href="https://www.figma.com/file/jw1bSVgWsAS5Z41eww5ee1/20%2F12-BePro?type=design&node-id=0%3A1&mode=design&t=UcFGDJFir7qUSMsK-1">
         <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
         </a>
         <h4>CSS, Python, Docker, Kubernetes, Git, Github, Bitbucket, Nginx, CI/CD GitLab, PosgreSQL, C/C++, Linux/IOS.</h4>
