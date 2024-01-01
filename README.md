@@ -19,7 +19,7 @@
 
 <h4>My goal is to enhance my expertise in the field of product development, leveraging core programming principles. At the moment, I am practicing in UX research and studying the principles of creating user-friendly interfaces to create innovative and successful products.<br><br>I participated in a startup accelerator at the Innopolis University. Here, I acquired valuable experience in a dynamic and innovative environment, learning to effectively lead teams, shape product strategies, and execute project planning and control. In School 21, I am studying fundamental programming principles and developing skills in modern technologies and tools, including web application development, database management, and mobile applications.</h4>
 
-<img align="center" alt="GIF" src="./error.gif" /></div>
+<img align="center" alt="GIF" src="./gigif.gif" /></div>
 
 
 
