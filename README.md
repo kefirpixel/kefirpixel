@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Yana 🖐🏻</h1>
-    <h3>Aspiring IOS developer 📱</h3>
+    <h3>Aspiring Product manager 📱</h3>
 </div>
 
 <div id="socials" align="center">
